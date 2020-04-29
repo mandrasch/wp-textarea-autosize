@@ -14,6 +14,7 @@ No configuration need, the autosize() method is applied to all textareas when th
 autosize by jackmoore 
 https://github.com/jackmoore/autosize (MIT license)
 
-## Demo
+
+### autosize Demo
 
 http://www.jacklmoore.com/autosize/
